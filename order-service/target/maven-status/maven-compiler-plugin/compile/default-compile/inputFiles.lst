@@ -1,0 +1,10 @@
+C:\Users\liavb\Desktop\Projects\microservices-parent\order-service\src\main\java\com\liavb\order\model\OrderLineItems.java
+C:\Users\liavb\Desktop\Projects\microservices-parent\order-service\src\main\java\com\liavb\order\model\Order.java
+C:\Users\liavb\Desktop\Projects\microservices-parent\order-service\src\main\java\com\liavb\order\service\OrderService.java
+C:\Users\liavb\Desktop\Projects\microservices-parent\order-service\src\main\java\com\liavb\order\dto\OrderLineItemsDto.java
+C:\Users\liavb\Desktop\Projects\microservices-parent\order-service\src\main\java\com\liavb\order\repository\OrderRepository.java
+C:\Users\liavb\Desktop\Projects\microservices-parent\order-service\src\main\java\com\liavb\order\config\WebClientConfig.java
+C:\Users\liavb\Desktop\Projects\microservices-parent\order-service\src\main\java\com\liavb\order\dto\InventoryResponse.java
+C:\Users\liavb\Desktop\Projects\microservices-parent\order-service\src\main\java\com\liavb\order\controller\OrderController.java
+C:\Users\liavb\Desktop\Projects\microservices-parent\order-service\src\main\java\com\liavb\order\dto\OrderRequest.java
+C:\Users\liavb\Desktop\Projects\microservices-parent\order-service\src\main\java\com\liavb\order\OrderServiceApplication.java

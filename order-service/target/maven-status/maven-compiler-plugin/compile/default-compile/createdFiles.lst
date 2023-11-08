@@ -1,0 +1,11 @@
+com\liavb\order\dto\OrderLineItemsDto.class
+com\liavb\order\config\WebClientConfig.class
+com\liavb\order\dto\OrderRequest.class
+com\liavb\order\service\OrderService.class
+com\liavb\order\model\Order.class
+com\liavb\order\dto\InventoryResponse$InventoryResponseBuilder.class
+com\liavb\order\controller\OrderController.class
+com\liavb\order\OrderServiceApplication.class
+com\liavb\order\repository\OrderRepository.class
+com\liavb\order\model\OrderLineItems.class
+com\liavb\order\dto\InventoryResponse.class

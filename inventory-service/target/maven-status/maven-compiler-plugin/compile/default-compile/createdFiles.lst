@@ -1,0 +1,7 @@
+com\liavb\inventory\service\InventoryService.class
+com\liavb\inventory\model\Inventory.class
+com\liavb\inventory\InventoryServiceApplication.class
+com\liavb\inventory\controller\InventoryController.class
+com\liavb\inventory\dto\InventoryResponse$InventoryResponseBuilder.class
+com\liavb\inventory\dto\InventoryResponse.class
+com\liavb\inventory\repository\InventoryRepository.class

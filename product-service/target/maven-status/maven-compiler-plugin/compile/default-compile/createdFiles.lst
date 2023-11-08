@@ -1,0 +1,10 @@
+com\liavb\product\model\Product$ProductBuilder.class
+com\liavb\product\controller\ProductController.class
+com\liavb\product\dto\ProductResponse.class
+com\liavb\product\service\ProductService.class
+com\liavb\product\dto\ProductResponse$ProductResponseBuilder.class
+com\liavb\product\model\Product.class
+com\liavb\product\repository\ProductRepository.class
+com\liavb\product\ProductServiceApplication.class
+com\liavb\product\dto\ProductRequest.class
+com\liavb\product\dto\ProductRequest$ProductRequestBuilder.class
